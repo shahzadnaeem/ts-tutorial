@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
-      "target": "es2020",
-      "types": ["node", "jest"],
+      "target": "ES2015",
+      "types": ["node", "jest", "jasmine"],
       "allowJs": true,
       "skipLibCheck": true,
       "esModuleInterop": true,
