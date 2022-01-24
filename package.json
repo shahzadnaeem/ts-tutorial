@@ -1,7 +1,6 @@
 {
   "name": "ts-tutorial",
   "version": "1.0.0",
-  "main": "dist/index.js",
   "type": "commonjs",
   "author": "Shahzad Naeem <shahzad65naeem@gmail.com>",
   "license": "MIT",

@@ -8,6 +8,10 @@ describe( "Basic AClass tests", () => {
         theClass = new AClass( John );
     });
 
+    it( "Class should be an object", () => {
+        expect(typeof AClass).toBe("function");
+    });
+
     it( "Should be an instance", () => {
         expect(theClass).toBeInstanceOf( AClass );
     });
