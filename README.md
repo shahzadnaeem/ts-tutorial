@@ -10,8 +10,8 @@ Had to remove the `"spec_dir"` entry from `jasmine.json` for it to work with TS 
 
 ## Scripts
 
-**build**   - TS build
-**test**    - Jest test
-**jasmine** - Jasmine test
+- **build**   - TS build
+- **test**    - Jest test
+- **jasmine** - Jasmine test
 
 **Makefile** also exists 😇 - use `make help`
